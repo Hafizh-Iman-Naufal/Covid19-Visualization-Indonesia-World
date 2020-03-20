@@ -1,0 +1,11 @@
+city,lat,long,admin,capital
+Surabaya,-7.249167,112.750833,Jawa Timur,admin
+Yogyakarta,-7.801389,110.364722,Yogyakarta,admin
+Tanjungpinang,0.916667,104.458333,Kepulauan Riau,admin
+Serang,-6.115278,106.154167,Banten,admin
+Denpasar,-8.65,115.216667,Bali,admin
+Jakarta,-6.174444,106.829444,Jakarta,primary
+Manado,1.48218,124.848922,Sulawesi Utara,admin
+Pontianak,-0.031944,109.325,Kalimantan Barat,admin
+Semarang,-6.993056,110.420833,Jawa Tengah,admin
+Bandung,-6.922222,107.606944,Jawa Barat,admin
